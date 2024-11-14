@@ -1,1 +1,1 @@
-window.baseURL = "https://lianjing.cloudns.biz";
+window.baseURL = "https://72675681.r16.vip.cpolar.cn";

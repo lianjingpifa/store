@@ -1,1 +1,1 @@
-window.baseURL = "https://702be47.r16.vip.cpolar.cn";
+window.baseURL = "https://2bf0ae7d.r16.vip.cpolar.cn";
